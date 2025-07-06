@@ -10,7 +10,7 @@ This app is designed with two views:
 
 ## 🔧 Tech Stack
 
-- **Frontend**: SvelteKit
+- **Frontend**: React + Vite
 - **Styling**: Tailwind CSS
 - **Backend & Database**: Supabase (PostgreSQL)
 - **Hosting**: Vercel (frontend), Supabase (backend)
